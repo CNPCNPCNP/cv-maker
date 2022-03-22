@@ -4,3 +4,5 @@ This basic app is designed to let you easily create a resume based on a standard
 It was built with **React** and **TypeScript**.
 
 This app is only intended as a demonstration, and it is probably not a good idea to use it for your actual resume.
+
+[CV-Maker](https://cnpcnpcnp.github.io/cv-maker/)
