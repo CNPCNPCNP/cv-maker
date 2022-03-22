@@ -1,6 +1,6 @@
 # CV Maker
 
-This is app lets you easily create a CV based on a standard format.
+This basic app is designed to let you easily create a resume based on a standard format.
 It was built with **React** and **TypeScript**.
 
-This project was part of the Fullstack JavaScript curriculum on [The Odin Project](https://www.theodinproject.com/), see the [assignment details here](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/cv-application#assignment).
+This app is only intended as a demonstration, and it is probably not a good idea to use it for your actual resume.
