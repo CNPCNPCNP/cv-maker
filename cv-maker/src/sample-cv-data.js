@@ -2,20 +2,20 @@ import { v4 as uuidv4 } from 'uuid';
 
 const data = {
   personal: {
-    name: 'John Doeman',
+    name: 'Clay Hart',
     title: 'Software Developer',
     phone: '01234 567890',
-    email: 'doeman@gmail.com',
-    location: 'Bristol, UK'
+    email: 'clay.hart@uqconnect.edu.au',
+    location: 'Brisbane, Australia'
   },
   description:
-    'Cupidatat sunt anim incididunt nisi labore sunt nulla Lorem elit irure. Aliquip quis excepteur et nostrud enim irure nostrud officia. Et deserunt et aliquip voluptate elit cupidatat. Adipisicing enim minim do anim eiusmod est. Irure laboris anim voluptate proident. Cillum reprehenderit est magna minim. Nostrud ex aute laborum ea irure amet ea ipsum ut non minim anim nisi.',
+    'I am a computer science student looking for new and exciting challenges in the software development space. As demonstrated by this webpage, I am capable of working with modern Javascript frameworks to implement any functionality you need.',
   experience: [
     {
       id: uuidv4(),
       position: 'Software Engineer',
-      company: 'A Software Company',
-      startDate: '2018',
+      company: 'Any Software Company',
+      startDate: '2022',
       endDate: 'Present',
       desc: 'Ut fugiat minim qui voluptate culpa. Elit nostrud ex ad incididunt incididunt eiusmod. Officia cupidatat culpa commodo nisi nostrud.'
     },
@@ -24,7 +24,7 @@ const data = {
       position: 'Graduate Engineer',
       company: 'My First Company',
       startDate: '2017',
-      endDate: '2018',
+      endDate: '2020',
       desc: 'Irure dolor incididunt sint et ullamco. Commodo laboris amet aliquip incididunt do ut est exercitation reprehenderit magna sit laboris est mollit.'
     },
     {
@@ -39,17 +39,17 @@ const data = {
   education: [
     {
       id: uuidv4(),
-      course: 'CS50: Introduction to Computer Science',
-      university: 'Harvard University',
-      startDate: '2020',
+      course: 'Bachelor of Computer Science',
+      university: 'University of Queensland',
+      startDate: '2021',
       endDate: 'Present'
     },
     {
       id: uuidv4(),
-      course: 'Fullstack JavaScript',
-      university: 'The Odin Project',
-      startDate: '2019',
-      endDate: 'Present'
+      course: 'Bachelor of Science',
+      university: 'Queensland University of Technology',
+      startDate: '2015',
+      endDate: '2017'
     }
   ]
 };

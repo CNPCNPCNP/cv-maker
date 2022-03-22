@@ -1,7 +1,7 @@
 {
   "name": "cv-project",
   "version": "0.1.0",
-  "homepage": "http://shanesc.github.io/top-cv-maker",
+  "homepage": "http://CNPCNPCNP.github.io/cv-maker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
